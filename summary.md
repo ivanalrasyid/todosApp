@@ -1,3 +1,4 @@
+![website](https://user-images.githubusercontent.com/83364050/191225261-1dfedd10-6c04-4a31-aaba-2dc632857157.png)
 ## Implementasi useState & useEffect di Component
 * Function Component 
 ```jsx
@@ -16,4 +17,4 @@ class Example extends React.Component {
 }
 ```
 
-https://todos-app-coral.vercel.app/
+* https://todos-app-coral.vercel.app/
